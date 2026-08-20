@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Libros>
+    <libro titulo="Invisible" autor="Eloy Moreno" anio="2020"/>
+    <libro titulo="La ladrona de Libros" autor="Markus Zusak" anio="2005"/>
+    <libro titulo="Bajo la misma estrella" autor="John Green" anio="2012"/>
+    <libro titulo="El niño de la pijama de rayas" autor="John Boyne" anio="2006"/>
+    <libro titulo="Las ventajas de ser un marginado" autor="Srephen Chbosky" anio="1999"/>
+    <libro titulo="Elenor y Park" autor="Rainbow Rowell" anio="2013"/>
+    <libro titulo="Los juegos del hambre" autor="Suzanne Collins" anio="2008"/>
+    <libro titulo="Por trece razones" autor="Jay Asher" anio="2007"/>
+    <libro titulo="La Metamorfosis" autor="Franz Kafka" anio="1915"/>
+    <libro titulo="La Odisea" autor="Homero" anio="850 a.C."/>
+</Libros>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Empleados>
+    <empleado>
+        <Nombre>Alan</Nombre>
+        <Apellido>Bolaños</Apellido>
+        <Edad>22</Edad>
+        <Departamento>Ventas</Departamento>
+        <Cargo>Ejecutivo de ventas</Cargo>
+    </empleado>
+
+    <empleado>
+        <Nombre>Diego</Nombre>
+        <Apellido>Aguilar</Apellido>
+        <Edad>22</Edad>
+        <Departamento>Bodega</Departamento>
+        <Cargo>Jefe de Bodega</Cargo>
+    </empleado>
+
+    <empleado>
+        <Nombre>Erick</Nombre>
+        <Apellido>Colmenares</Apellido>
+        <Edad>22</Edad>
+        <Departamento>Tecnico</Departamento>
+        <Cargo>Tecnico principal</Cargo>
+    </empleado>
+
+</Empleados>

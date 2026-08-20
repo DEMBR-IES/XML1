@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Catalogo>
+    <Producto>
+        <Nombre>Bandera de Guatemala de Tela</Nombre>
+        <Descripcion>Bandera nacional escolar / Artículo de oficina</Descripcion>
+        <Precio>Q 29.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">0.10 libras</caracteristica>
+            <caracteristica nombre="garantia">Garantía por defectos. Máximo de 24 hrs después de la entrega.</caracteristica>
+            <caracteristica nombre="SKU">F9F588B4</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Galaxy S26 Ultra 5G</Nombre>
+        <Descripcion>12GB RAM + 512GB Almacenamiento, Dual SIM Liberado - Violeta</Descripcion>
+        <Precio>Q 10,999.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">0.60 libras</caracteristica>
+            <caracteristica nombre="Garantia">12 meses</caracteristica>
+            <caracteristica nombre="SKU">4941F64AEC</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Tune Beam JBL</Nombre>
+        <Descripcion>2 Audífonos Bluetooth con Cancelación de Ruido Edición Fantasma - Negro</Descripcion>
+        <Precio>Q 599.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">0.10 libras</caracteristica>
+            <caracteristica nombre="Garantia">12 meses</caracteristica>
+            <caracteristica nombre="SKU">34939A0805</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Laptop Asus TUF Gaming F16</Nombre>
+        <Descripcion>Core 5 210H 16GB RAM + 512GB SSD + RTX 4050 6GB, 16" Win 11 Home en Español - Gris</Descripcion>
+        <Precio>Q 20,083.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">4.85 libras</caracteristica>
+            <caracteristica nombre="Garantia">12 meses</caracteristica>
+            <caracteristica nombre="SKU">5416A20B1F</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Secadora Eléctrica LG</Nombre>
+        <Descripcion>Carga Frontal con 10 Programas de Secado, Capacidad de 44 lb, 20 kg - Gris</Descripcion>
+        <Precio>Q 5,379.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">200.00 libras</caracteristica>
+            <caracteristica nombre="Garantia">12 meses</caracteristica>
+            <caracteristica nombre="SKU">D871F61381</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Club de Nuit Intense Man Eau ARMAF</Nombre>
+        <Descripcion>Toilette para Hombre - 105 ml</Descripcion>
+        <Precio>Q 338.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">1.00 libras</caracteristica>
+            <caracteristica nombre="Garantia">max. 24h</caracteristica>
+            <caracteristica nombre="SKU">E43768A57D</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Alexa Echo Dot</Nombre>
+        <Descripcion>5ta Gen Bocina Inteligente - Negro</Descripcion>
+        <Precio>Q 489.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">1.15 libras</caracteristica>
+            <caracteristica nombre="Garantia">6 meses</caracteristica>
+            <caracteristica nombre="SKU">572CB79156</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>UNO No Mercy</Nombre>
+        <Descripcion>Juego de Cartas UNO No Mercy</Descripcion>
+        <Precio>Q 99.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">0.53 libras</caracteristica>
+            <caracteristica nombre="Garantia">max. 24h</caracteristica>
+            <caracteristica nombre="SKU">041F0DECBE</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Kalea Silla</Nombre>
+        <Descripcion>Ferran - Negro</Descripcion>
+        <Precio>Q 765.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">15.00 libras</caracteristica>
+            <caracteristica nombre="Garantia">12 meses</caracteristica>
+            <caracteristica nombre="SKU">62094BBC82</caracteristica>
+        </Caracteristicas>
+    </Producto>
+
+    <Producto>
+        <Nombre>Licuadora Detect Power Blender Pro</Nombre>
+        <Descripcion>72 oz + 2 Personal Single-Serve de 24 oz - Negro - NINJA</Descripcion>
+        <Precio>Q 1,285.00</Precio>
+        <Caracteristicas>
+            <caracteristica nombre="peso">10.67 libras</caracteristica>
+            <caracteristica nombre="Gartantia">12 meses</caracteristica>
+            <caracteristica nombre="SKU">DBFCF219CE</caracteristica>
+        </Caracteristicas>
+    </Producto>
+</Catalogo>
